@@ -1,0 +1,11 @@
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\bin\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.exe.config
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\bin\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.exe
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\bin\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.pdb
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\bin\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.Lib.dll
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\bin\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.Lib.pdb
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\obj\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.csproj.AssemblyReference.cache
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\obj\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\obj\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.csproj.CopyComplete
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\obj\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.exe
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint1\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12\obj\Debug\Tyuiu.BreslavskyaIV.Sprint1.Task2.V12.pdb
