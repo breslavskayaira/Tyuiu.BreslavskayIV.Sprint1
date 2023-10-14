@@ -16,7 +16,7 @@ namespace Tyuiu.BreslavskyaIV.Sprint1.Task0.V9
             Console.Title = "Спринт #1 | Выполнила: Бреславская И. В. | ПКТб-23-2";
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #1                                                                *");
-            Console.WriteLine("* Тема: Создание итогового решения по спринту                              *");
+            Console.WriteLine("* Тема: Базовые навыки работы в C#                                         *");
             Console.WriteLine("* Задание #0                                                               *");
             Console.WriteLine("* Вариант #9                                                               *");
             Console.WriteLine("* Выполнила: Бреславская И. В. | ПКТб-23-2                                 *");
